@@ -1,10 +1,14 @@
 # CIS200Assn4
 
+This was an assignment for my CIS 200 class, Winter 2018.  The program simulates a set of processors using a binary heap priority queue as they process a set of input jobs.
+
+My approach to the problem was to design a simple system with a single processor that could process the job as described, and to add additional functionality once each feature was fully tested.  The problem statement is below.
+
 - 2018 Winter CIS200 – Program 4
 - Release date:  April 10, 2018
-- Due date: April 13and April 20, 2018
+- Due date: April 13 and April 20, 2018
 
-The program will simulate aprocessor using a binary heap priority queue.
+The program will simulate a processor using a binary heap priority queue.
 
 The jobs to be processed will be arriving into the system on a random basis based on the following arrival times with specific processing time units.
 
