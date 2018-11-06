@@ -1,8 +1,8 @@
 # CIS200Assn4
 
-2018 Winter CIS200 – Program 4
-Release date:  April 10, 2018
-Due date: April 13and April 20, 2018
+- 2018 Winter CIS200 – Program 4
+- Release date:  April 10, 2018
+- Due date: April 13and April 20, 2018
 
 The program will simulate aprocessor using a binary heap priority queue.
 
@@ -22,8 +22,6 @@ To start there is one processor with a priority queue to hold all jobs that have
 Data for each job: job type,overall job number, job type number, processing time
 
 You are to determine and capture a set of metrics that will determine how well the system is performing.
-
- 
 
 Sample Metrics:
 
